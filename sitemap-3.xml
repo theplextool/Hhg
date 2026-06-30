@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Apna domain laga kar 'https://yourdomain.com/' ko replace karein -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://yourdomain.com/index.html</loc><changefreq>hourly</changefreq><priority>1.0</priority></url>
+</urlset>
